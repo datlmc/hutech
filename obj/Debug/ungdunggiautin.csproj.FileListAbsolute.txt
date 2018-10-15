@@ -1,0 +1,10 @@
+C:\Users\thanhdat\source\repos\ungdunggiautin\ungdunggiautin\bin\Debug\ungdunggiautin.exe.config
+C:\Users\thanhdat\source\repos\ungdunggiautin\ungdunggiautin\bin\Debug\ungdunggiautin.exe
+C:\Users\thanhdat\source\repos\ungdunggiautin\ungdunggiautin\bin\Debug\ungdunggiautin.pdb
+C:\Users\thanhdat\source\repos\ungdunggiautin\ungdunggiautin\obj\Debug\ungdunggiautin.csprojAssemblyReference.cache
+C:\Users\thanhdat\source\repos\ungdunggiautin\ungdunggiautin\obj\Debug\ungdunggiautin.Form1.resources
+C:\Users\thanhdat\source\repos\ungdunggiautin\ungdunggiautin\obj\Debug\ungdunggiautin.Properties.Resources.resources
+C:\Users\thanhdat\source\repos\ungdunggiautin\ungdunggiautin\obj\Debug\ungdunggiautin.csproj.GenerateResource.cache
+C:\Users\thanhdat\source\repos\ungdunggiautin\ungdunggiautin\obj\Debug\ungdunggiautin.csproj.CoreCompileInputs.cache
+C:\Users\thanhdat\source\repos\ungdunggiautin\ungdunggiautin\obj\Debug\ungdunggiautin.exe
+C:\Users\thanhdat\source\repos\ungdunggiautin\ungdunggiautin\obj\Debug\ungdunggiautin.pdb
